@@ -1,0 +1,36 @@
+[Mod 15] Project: AI Agent Project
+Module 15 – AI Agent Project
+🎯 Task Objective
+Build an AI Agent with LangChain that generates LinkedIn posts for users.
+
+🔄 Functionality
+Inputs (from user):
+
+
+Topic of the post (e.g., “AI in Healthcare”, “Remote Work Productivity”).
+
+
+Language of the post (e.g., English, Bengali, Spanish).
+
+
+AI Agent (LangChain):
+
+
+Uses an LLM chain to generate a professional LinkedIn-style post.
+
+
+Ensures post is structured, engaging, and in the selected language.
+
+
+Output:
+
+
+A generated LinkedIn post (2–4 paragraphs).
+
+
+
+
+📽️ Submission Deliverables
+Code Repo / Notebook.
+
+Demo Video (2-3 min short Video)

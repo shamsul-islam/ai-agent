@@ -9,10 +9,11 @@ This project is an AI agent that generates professional LinkedIn posts based on 
     ```
     pip install -r requirements.txt
     ```
-3.  **Create a `.env` file** in the root directory and add your Google API key:
+3.  **Set up your environment variables.** Copy the example file to a new `.env` file:
     ```
-    GOOGLE_API_KEY=YOUR_API_KEY_HERE
+    copy .env.example .env
     ```
+    Then, open the new `.env` file and replace `YOUR_API_KEY_HERE` with your actual Google API key.
 4.  **Run the script:**
     ```
     python main.py
